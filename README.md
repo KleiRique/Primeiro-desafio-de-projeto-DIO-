@@ -13,8 +13,7 @@ Este documento descreve como escrever em Markdown.
   * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## Video do curso
-   * [Introduçaõ ao Git e o Github]([Introdução ao Git e ao GitHub](https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9))
-
+  
 ## Comandos básicos do Git
 
    * git config --global user.name nome_de_usuario
