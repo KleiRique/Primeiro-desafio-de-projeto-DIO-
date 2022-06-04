@@ -1,4 +1,4 @@
-# Primeiro-desafio-de-projeto-DIO 
+# Primeiro desafio de projeto Digital Innovation One
 
 ![Design sem nome (11)](https://user-images.githubusercontent.com/105089406/172022741-a154c46c-5d28-42b8-8853-5326fdd27707.png)
 
