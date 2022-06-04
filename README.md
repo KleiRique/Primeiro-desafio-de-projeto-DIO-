@@ -14,7 +14,8 @@ Este documento descreve como escrever em Markdown.
 * Markdown no Github
   * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
-## Video do curso (https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9)
+## Video do curso
+ * [Introdução ao Git e Gihub](https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9)
   
 ## Comandos básicos do Git
 
