@@ -19,29 +19,29 @@ Este documento descreve como escrever em Markdown.
   
 ## Comandos básicos do Git
 
-   * git config --global user.name nome_de_usuario
-   *  git config --global user.email email@exemplo.br
+```bash * git config --global user.name nome_de_usuario
+      *  git config --global user.email email@exemplo.br
 
-   * git init
+      * git init
 
-   * git remote add origin
+      * git remote add origin
 
-   * git add *
+      * git add *
 
-   * git commit -m 'mensagem para identificar o commit'
+      * git commit -m 'mensagem para identificar o commit'
 
-   * git push -u origin master
-   * git config --global user.name nome_de_usuario
-   * git config --global user.email email@exemplo.br
+      * git push -u origin master
+      * git config --global user.name nome_de_usuario
+      * git config --global user.email email@exemplo.br
 
-   * git init
+      * git init
 
-    git remote add origin url_do_seu_repositorio
+      * git remote add origin url_do_seu_repositorio
 
-    git add *
+      * git add *
 
-    git commit -m 'mensagem para identificar o commit'
+      *  git commit -m 'mensagem para identificar o commit'
 
-    git push -u origin master
-
+      *  git push -u origin master
+      ```
 
